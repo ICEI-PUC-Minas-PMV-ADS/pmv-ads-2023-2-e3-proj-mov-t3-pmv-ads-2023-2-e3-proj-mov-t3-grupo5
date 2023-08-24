@@ -170,4 +170,18 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
-![Orçamento](img/02-orcamento.png)
+| Item                    | Descrição                                     | Custo Estimado (R$) |
+|-------------------------|-----------------------------------------------|---------------------|
+| **Equipe**              |                                               |                     |
+| Gerente de Projeto      | Salário mensal (6 meses)                     | 48.000,00           |
+| Designer de UI/UX       | Salário mensal (3 meses)                     | 18.000,00           |
+| Desenvolvedores (2)     | Salário mensal (6 meses)                     | 84.000,00           |
+| Testadores (2)          | Salário mensal (4 meses)                     | 40.000,00           |
+| **Total da Equipe**     |                                               | 190.000,00          |
+| **Tecnologia**          |                                               |                     |
+| Computadores e Hardware | Equipamento para a equipe                    | 40.000,00           |
+| Licenças de Software    | Ferramentas de desenvolvimento e design      | 10.000,00           |
+| Infraestrutura em Nuvem | Serviços de hospedagem e armazenamento       | 15.000,00           |
+| **Total Tecnológico**   |                                               | 65.000,00           |
+| **Reserva para Contingências** |                                        | 19.500,00           |
+| **Total Estimado**      |                                               | **274.500,00**      |
