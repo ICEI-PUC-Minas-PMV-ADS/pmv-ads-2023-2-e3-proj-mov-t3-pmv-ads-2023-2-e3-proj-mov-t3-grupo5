@@ -20,10 +20,10 @@ O objetivo central deste trabalho é desenvolver uma aplicação que permita à 
 
 Os objetivos específicos do projeto abrangem:
 
-● Cadastrar, editar e excluir clientes;
-● Cadastro, edição e exclusão de pedidos;
-● Calcular preço de venda de produtos e definição de seus prazos para de entrega;
-● Cadastrar, editar e excluir produtos e serviços;
+> -● Cadastrar, editar e excluir clientes;
+> -● Cadastro, edição e exclusão de pedidos;
+> -● Calcular preço de venda de produtos e definição de seus prazos para de entrega;
+> -● Cadastrar, editar e excluir produtos e serviços;
 
 A automatização deste processo busca obter uma série de benefícios significativos. Isso inclui maior eficiência operacional, redução de custos, melhoria na qualidade, minimização de erros, escalabilidade aprimorada, análise de dados aprofundada, tempo de resposta mais rápido, garantia de conformidade, aumento da satisfação do cliente e um ambiente propício para a inovação contínua.
 
