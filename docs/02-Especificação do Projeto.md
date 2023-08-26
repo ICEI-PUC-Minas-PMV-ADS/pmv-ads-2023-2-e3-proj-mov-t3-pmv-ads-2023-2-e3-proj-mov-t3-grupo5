@@ -8,19 +8,19 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-1. Usuário Casual - Maria Eugênia
+**1. Usuário Casual - Maria Eugênia**
 - Idade: 29 anos
 - Profissão: Bancária
 - Experiência Tecnológica: Moderada
 - Motivação: Maria Eugênia que um aplicativo de fácil utilização para acompanhamento dos seus pedidos online. Ela valoriza a praticidade e a conveniência.
 
-2. Usuário Idoso: Antônio
+**2. Usuário Idoso: Antônio**
 - Idade: 68 anos
 - Profissão: Aposentado
 - Experiência Tecnológica: Básica
 - Motivação: Antônio que utilizar o aplicativo para acompanhar seus pedidos de forma mais eficiente, mas necessita de um interface bastante intuitiva, simples e clara.
 
-3. Usuário Focado: Marcela
+**3. Usuário Focado: Marcela**
 - Idade: 37 anos
 - Profissão: Arquiteta
 - Experiência Tecnológica: Alta
