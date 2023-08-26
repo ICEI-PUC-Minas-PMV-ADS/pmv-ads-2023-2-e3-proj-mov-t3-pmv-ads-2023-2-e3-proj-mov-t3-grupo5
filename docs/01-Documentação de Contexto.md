@@ -22,8 +22,8 @@ Os objetivos específicos do projeto abrangem:
 
 <p> ● Cadastrar, editar e excluir clientes;</p>
 <p> ● Cadastro, edição e exclusão de pedidos;</p>
-<p> ● Calcular preço de venda de produtos e definição de seus prazos para de entrega; </p>
-<p> ● Cadastrar, editar e excluir produtos e serviços; </p>
+<p> ● Calcular preço de venda de produtos e definição de seus prazos para de entrega;</p>
+<p> ● Cadastrar, editar e excluir produtos e serviços;</p>
 
 A automatização deste processo busca obter uma série de benefícios significativos. Isso inclui maior eficiência operacional, redução de custos, melhoria na qualidade, minimização de erros, escalabilidade aprimorada, análise de dados aprofundada, tempo de resposta mais rápido, garantia de conformidade, aumento da satisfação do cliente e um ambiente propício para a inovação contínua.
 
