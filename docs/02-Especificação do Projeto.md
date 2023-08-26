@@ -30,7 +30,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
-**1. História de Usuário de Maria Eugênia** - Acompanhamento Simplificado:<b>
+**1. História de Usuário de Maria Eugênia** - Acompanhamento Simplificado:
     - Como Maria Eugênia, gostaria de realizar o login no aplicativo através do meu e-mail e senha para acessar meus pedidos anteriores.
     - Após realizado o login, gostaria de visualizar uma lista com meus pedidos recentes e suas informações básicas, como datas e status.
 
