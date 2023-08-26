@@ -8,7 +8,7 @@ Adicionalmente, o software tem o poder de servir como um aliado na tomada de dec
 
 Em síntese, a ausência de um software abrangente como esse não apenas coloca uma empresa em desvantagem perante seus concorrentes, mas também acarreta uma série de entraves que podem impactar negativamente seu desenvolvimento e lucratividade. Dessa forma, o investimento nessa ferramenta se configura como uma escolha perspicaz, capaz de conduzir o negócio à otimização de suas operações e à manutenção de uma posição competitiva no mercado altamente dinâmico.
 
-##Problema
+## Problema
 
 ## Objetivos
 
