@@ -10,6 +10,11 @@ Em síntese, a ausência de um software abrangente como esse não apenas coloca 
 
 ## Problema
 
+Partindo da premissa de que as instituições estão cada vez mais globalizadas e com presença em diversos territórios, emerge um cenário cada vez mais competitivo. Nesse contexto, as empresas que optam por modernizar-se e investir em tecnologia estão colhendo os resultados mais destacados.
+
+Com esse entendimento, voltado para promover a capacidade de adaptação das empresas aos avanços tecnológicos, o desafio que este projeto se propõe a solucionar é o aprimoramento da gestão dos processos empresariais essenciais, como faturamento, controle de estoque e gestão de pedidos, visando-se solucionar problemas de desempenho operacional e gerenciais.
+
+
 ## Objetivos
 
 O objetivo central deste trabalho é desenvolver uma aplicação que permita à empresa otimizar sua gestão nos processos de faturamento, pedidos e controle de estoque. Essa otimização será alcançada por meio do cadastro realizado pelos operadores do sistema (usuários), visando aprimorar a eficiência dos processos, evitar perda de produtividade e estabelecer maior organização e segurança. Como resultado, espera-se uma considerável redução de custos para a instituição.
