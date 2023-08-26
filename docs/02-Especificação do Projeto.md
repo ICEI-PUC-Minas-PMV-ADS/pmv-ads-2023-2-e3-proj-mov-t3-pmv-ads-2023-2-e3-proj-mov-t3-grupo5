@@ -79,30 +79,28 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que os usuários façam login usando suas credenciais (nome de usuário ou e-mail e senha). | ALTA | 
+|RF-002| Validar as credenciais e conceder acesso ao aplicativo após a autenticação bem-sucedida. | ALTA | 
+|RF-003| Permitir que novos usuários se cadastrem fornecendo informações como nome, e-mail, senha, e possivelmente outros detalhes relevantes.   | ALTA |
+|RF-004| Validar os dados inseridos para garantir a integridade das informações.  | MÉDIA |
+|RF-005| Exibir as informações do perfil do usuário, como nome, imagem de perfil e detalhes de contato.   | MÉDIA |
+|RF-006| Permitir que os usuários atualizem suas informações de perfil, se necessário.   | MÉDIA |
+|RF-007| Mostrar uma lista dos pedidos feitos pelo usuário, exibindo detalhes básicos de cada pedido.   | ALTA |
+|RF-008| Permitir a seleção de um pedido para acessar a tela de detalhamento.   | MÉDIA |
+|RF-009| Mostrar uma lista dos pedidos feitos pelo usuário, exibindo detalhes básicos de cada pedido.   | ALTA |
+|RF-010| Exibir informações completas sobre um pedido específico, incluindo produtos, status do pedido, data de criação etc.   | MÉDIA |
+|RF-011| Fornecer atualizações em tempo real sobre o status do pedido, se disponível.   | ALTA |
+|RF-012| Oferecer uma maneira para os usuários entrarem em contato com o suporte, seja por meio de um formulário de contato ou Whatsapp.   | MÉDIA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
+|RNF-002| Prevenir acessos não autorizados usando autenticação adequada e mecanismos de autorização. |  ALTA |
+|RNF-003| Manter alta disponibilidade do serviço para que os usuários possam acessar e interagir com o aplicativo a qualquer momento, exceto durante manutenções planejadas. |  MÉDIA | 
+|RNF-004| A aplicação deve ser compatível com sistemas Android. |  MÉDIA | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
