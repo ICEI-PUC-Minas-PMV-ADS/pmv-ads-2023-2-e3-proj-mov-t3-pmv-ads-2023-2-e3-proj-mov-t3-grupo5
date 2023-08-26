@@ -31,6 +31,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 **1. História de Usuário de Maria Eugênia** - Acompanhamento Simplificado:
+
     - Como Maria Eugênia, gostaria de realizar o login no aplicativo através do meu e-mail e senha para acessar meus pedidos anteriores.
     - Após realizado o login, gostaria de visualizar uma lista com meus pedidos recentes e suas informações básicas, como datas e status.
 
@@ -39,7 +40,6 @@ Com base na análise das personas foram identificadas as seguintes histórias de
     - Ao realizar o login, gostaria de visualizar uma tela inicial simples com botões grandes e legíveis para acessar meus pedidos e outras funcionalidades.
 
 **3. História de Usuário de Marcela** - Acompanhamento Detalhado:
-
     - Como Marcela, gostaria de realizar o login de maneira rápida no aplicativo, fornecendo apenas informações essenciais e que estas pudessem ficar salvas, agilizando o próximo acesso.
     - Ao entrar no aplicativo, gostaria de visualizar meus pedidos recentes em destaque, com informações detalhadas, como produtos específicos e seus status. 
 
