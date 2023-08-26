@@ -9,10 +9,12 @@ Adicionalmente, o software tem o poder de servir como um aliado na tomada de dec
 Em síntese, a ausência de um software abrangente como esse não apenas coloca uma empresa em desvantagem perante seus concorrentes, mas também acarreta uma série de entraves que podem impactar negativamente seu desenvolvimento e lucratividade. Dessa forma, o investimento nessa ferramenta se configura como uma escolha perspicaz, capaz de conduzir o negócio à otimização de suas operações e à manutenção de uma posição competitiva no mercado altamente dinâmico.
 
 ## Problema
-
-Partindo da premissa de que as instituições estão cada vez mais globalizadas e com presença em diversos territórios, emerge um cenário cada vez mais competitivo. Nesse contexto, as empresas que optam por modernizar-se e investir em tecnologia estão colhendo os resultados mais destacados.
+<p>
+  Partindo da premissa de que as instituições estão cada vez mais globalizadas e com presença em diversos territórios, emerge um cenário cada vez mais competitivo. Nesse contexto, as empresas que optam por modernizar-se e investir em tecnologia estão colhendo os resultados mais destacados.
 
 Com esse entendimento, voltado para promover a capacidade de adaptação das empresas aos avanços tecnológicos, o desafio que este projeto se propõe a solucionar é o aprimoramento da gestão dos processos empresariais essenciais, como faturamento, controle de estoque e gestão de pedidos, visando-se solucionar problemas de desempenho operacional e gerenciais.
+
+</p>
 
 
 ## Objetivos
