@@ -30,19 +30,30 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+**1. História de Usuário de Maria Eugênia** - Acompanhamento Simplificado:
+    - Como Maria Eugênia, gostaria de realizar o login no aplicativo através do meu e-mail e senha para acessar meus pedidos anteriores.
+    - Após realizado o login, gostaria de visualizar uma lista com meus pedidos recentes e suas informações básicas, como datas e status.
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+**2. História de Usuário de Antônio** - Experiência Amigável para Idosos:
+    - Como João, gostaria de criar uma conta no aplicativo de forma simples, fornecendo somente informações essenciais.
+    - Ao realizar o login, gostaria de visualizar uma tela inicial simples com botões grandes e legíveis para acessar meus pedidos e outras funcionalidades.
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+**3. História de Usuário de Marcela** - Acompanhamento Detalhado:
+    - Como Marcela, gostaria de realizar o login de maneira rápida no aplicativo, fornecendo apenas informações essenciais e que estas pudessem ficar salvas, agilizando o próximo acesso.
+    - Ao entrar no aplicativo, gostaria de visualizar meus pedidos recentes em destaque, com informações detalhadas, como produtos específicos e seus status. 
+
+**4. História de Usuário de Todos** - Fale Conosco:
+    - Como um usuário, gostaria de poder entrar em contato com o suporte do aplicativo.
+    - Na tela de "Fale Conosco", quero ter a opção de preencher um formulário ou iniciar uma conversa via whatsapp para relatar problemas ou realizar perguntas.
+
+**5. História de Usuário Marcela** - Atualizações em Tempo Real:
+    - Como Marcela, gostaria de receber notificações push sempre que houver uma atualização no status de um pedido.
+    - Gostaria também de poder visualizar as atualizações em tempo real na tela de detalhamento do pedido.
+
+**6. História de Usuário Maria Eugênia** - Atualização de Perfil:
+    - Como Maria Eugênia, gostaria de atualizar minha foto de perfil e informações de contato quando necessário.
+    - Na tela de perfil, gostaria de ter a opção de editar e salvar essas informações atualizadas.
+
 
 ## Modelagem do Processo de Negócio 
 
