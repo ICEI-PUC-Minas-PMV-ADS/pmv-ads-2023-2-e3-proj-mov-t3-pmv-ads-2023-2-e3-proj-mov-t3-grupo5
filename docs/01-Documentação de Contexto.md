@@ -37,13 +37,8 @@ Através da sua implementação, estamos forjando uma cultura organizacional que
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O foco central de público para o desenvolvimento deste sistema é atender às necessidades dos profissionais envolvidos na produção, fabricação e venda de produtos. Eles demandam ferramentas eficazes para a gestão de recursos, o agendamento de tarefas e a supervisão contínua do progresso da produção.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Este público de profissionais é fundamental para garantir a excelência em todas as etapas da produção, fabricação e venda de produtos. Seus objetivos se alinham na busca por eficiência operacional, qualidade do produto, conformidade com regulamentações e estratégias de mercado bem-sucedidas. Juntos, eles formam a base para o sucesso global da empresa, atendendo às necessidades dos clientes e impulsionando o crescimento sustentável.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Adicionalmente, o sistema busca a automação avançada das responsabilidades dos gestores de finanças, os quais são incumbidos de gerir com destreza tanto o fluxo de caixa quanto o inventário da empresa.
