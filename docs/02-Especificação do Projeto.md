@@ -34,7 +34,6 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 *Como Maria Eugênia, gostaria de realizar o login no aplicativo através do meu e-mail e senha para acessar meus pedidos anteriores.
 
-
 *Após realizado o login, gostaria de visualizar uma lista com meus pedidos recentes e suas informações básicas, como datas e status.
 
 **2. História de Usuário de Antônio** - Experiência Amigável para Idosos:
