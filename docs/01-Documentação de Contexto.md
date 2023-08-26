@@ -25,12 +25,15 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A criação de um sistema de gestão é um elemento vital que impulsiona a excelência operacional e a maximização dos recursos empresariais. Ao elaborar essa solução inovadora, buscamos não apenas em melhorar a eficiência, produtividade e lucratividade da empresa, mas também em fortalecer a capacidade adaptativa diante de um ambiente de negócios em constante evolução.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O desenvolvimento e implantação deste software apresenta um ganho significativo no desempenho para a empresa. Ao automatizar processos complexos e repetitivos, proporcionamos um ambiente de trabalho mais ágil e dinâmico para a equipe de trabalho, liberando seu potencial criativo e intelectual para tarefas de maior valor agregado. Isso não apenas otimiza as operações internas, mas também eleva a satisfação e o comprometimento dos colaboradores.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Uma plataforma centralizada é o coração do nosso sistema, reunindo informações valiosas de todos os setores e processos. Essa centralização não apenas facilita o acesso a dados essenciais, mas também fomenta a colaboração interdepartamental, permitindo uma compreensão holística da empresa e de suas necessidades. Os gestores, munidos de informações atualizadas e insights relevantes, podem tomar decisões informadas e estratégicas que direcionam o negócio rumo ao sucesso sustentável.
+
+Além disso, a capacidade de analisar tendências e padrões emergentes a partir dos dados coletados é um dos pontos altos desse sistema de gestão. Isso não apenas antecipa desafios potenciais, mas também identifica oportunidades de crescimento e inovação. Nossa busca pela melhoria contínua encontra terreno fértil nesse ambiente de informação rica, permitindo-nos ajustar nossas estratégias de maneira ágil.
+Através da sua implementação, estamos forjando uma cultura organizacional que abraça a eficiência, a inovação e a tomada de decisões fundamentadas. Este sistema levará a instituição a patamares mais elevados de sucesso, fortalecendo sua posição no mercado, melhorando a satisfação do cliente, construindo assim um futuro sustentável e promissor para o negócio.
+
 
 ## Público-Alvo
 
