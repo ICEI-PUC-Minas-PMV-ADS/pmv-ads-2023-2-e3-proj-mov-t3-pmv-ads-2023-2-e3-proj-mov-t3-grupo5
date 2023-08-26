@@ -30,9 +30,10 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
-**1. História de Usuário de Maria Eugênia** - Acompanhamento Simplificado:
-    - Como Maria Eugênia, gostaria de realizar o login no aplicativo através do meu e-mail e senha para acessar meus pedidos anteriores.
-    - Após realizado o login, gostaria de visualizar uma lista com meus pedidos recentes e suas informações básicas, como datas e status.
+1. História de Usuário de Maria Eugênia - Acompanhamento Simplificado:
+
+Como Maria Eugênia, gostaria de realizar o login no aplicativo através do meu e-mail e senha para acessar meus pedidos anteriores.
+Após realizado o login, gostaria de visualizar uma lista com meus pedidos recentes e suas informações básicas, como datas e status.
 
 **2. História de Usuário de Antônio** - Experiência Amigável para Idosos:
     - Como João, gostaria de criar uma conta no aplicativo de forma simples, fornecendo somente informações essenciais.
@@ -126,13 +127,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O projeto deverá ser entregue até o final do semestre letivo, não podendo extrapolar a data de 04/12/2023 |
 |02| O aplicativo deve se restringir às tecnologias de desenvolvimento mobile.       |
 |03| 	A equipe não pode subcontratar o desenvolvimento do trabalho.      |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
