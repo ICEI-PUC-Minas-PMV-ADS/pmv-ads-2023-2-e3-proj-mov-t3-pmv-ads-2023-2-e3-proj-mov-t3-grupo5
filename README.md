@@ -7,7 +7,7 @@
 
 `SEMESTRE: Eixo 3`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto visa criar uma aplicação mobile voltada a gestão empresarial, onde a aplicação tende a tornar os processos de venda e operações ainda mais simples e automatizados, trazendo segurança e praticidade ao usuário em geral.
 
 ## Integrantes
 
