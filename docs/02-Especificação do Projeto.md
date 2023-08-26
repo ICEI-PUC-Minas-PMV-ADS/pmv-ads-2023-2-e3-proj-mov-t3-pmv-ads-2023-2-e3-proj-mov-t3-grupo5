@@ -36,9 +36,11 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 - Após realizado o login, gostaria de visualizar uma lista com meus pedidos recentes e suas informações básicas, como datas e status.
 
-**2. História de Usuário de Antônio** - Experiência Amigável para Idosos:
-    - Como João, gostaria de criar uma conta no aplicativo de forma simples, fornecendo somente informações essenciais.
-    - Ao realizar o login, gostaria de visualizar uma tela inicial simples com botões grandes e legíveis para acessar meus pedidos e outras funcionalidades.
+**2. História de Usuário de Antônio - Experiência Amigável para Idosos:**
+
+* Como João, gostaria de criar uma conta no aplicativo de forma simples, fornecendo somente informações essenciais.
+  
+* Ao realizar o login, gostaria de visualizar uma tela inicial simples com botões grandes e legíveis para acessar meus pedidos e outras funcionalidades.
 
 **3. História de Usuário de Marcela** - Acompanhamento Detalhado:
     - Como Marcela, gostaria de realizar o login de maneira rápida no aplicativo, fornecendo apenas informações essenciais e que estas pudessem ficar salvas, agilizando o próximo acesso.
