@@ -8,6 +8,8 @@ Adicionalmente, o software tem o poder de servir como um aliado na tomada de dec
 
 Em síntese, a ausência de um software abrangente como esse não apenas coloca uma empresa em desvantagem perante seus concorrentes, mas também acarreta uma série de entraves que podem impactar negativamente seu desenvolvimento e lucratividade. Dessa forma, o investimento nessa ferramenta se configura como uma escolha perspicaz, capaz de conduzir o negócio à otimização de suas operações e à manutenção de uma posição competitiva no mercado altamente dinâmico.
 
+##Problema
+
 ## Objetivos
 
 O objetivo central deste trabalho é desenvolver uma aplicação que permita à empresa otimizar sua gestão nos processos de faturamento, pedidos e controle de estoque. Essa otimização será alcançada por meio do cadastro realizado pelos operadores do sistema (usuários), visando aprimorar a eficiência dos processos, evitar perda de produtividade e estabelecer maior organização e segurança. Como resultado, espera-se uma considerável redução de custos para a instituição.
