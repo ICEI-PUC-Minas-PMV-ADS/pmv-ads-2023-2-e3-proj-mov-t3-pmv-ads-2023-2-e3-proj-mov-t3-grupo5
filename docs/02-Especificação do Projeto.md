@@ -39,6 +39,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
     - Ao realizar o login, gostaria de visualizar uma tela inicial simples com botões grandes e legíveis para acessar meus pedidos e outras funcionalidades.
 
 **3. História de Usuário de Marcela** - Acompanhamento Detalhado:
+
     - Como Marcela, gostaria de realizar o login de maneira rápida no aplicativo, fornecendo apenas informações essenciais e que estas pudessem ficar salvas, agilizando o próximo acesso.
     - Ao entrar no aplicativo, gostaria de visualizar meus pedidos recentes em destaque, com informações detalhadas, como produtos específicos e seus status. 
 
