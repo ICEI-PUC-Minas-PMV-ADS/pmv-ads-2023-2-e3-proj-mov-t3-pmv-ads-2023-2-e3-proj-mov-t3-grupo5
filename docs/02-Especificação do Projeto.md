@@ -8,23 +8,27 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+1. Usuário Casual - Maria Eugênia
+- Idade: 29 anos
+- Profissão: Bancária
+- Experiência Tecnológica: Moderada
+- Motivação: Maria Eugênia que um aplicativo de fácil utilização para acompanhamento dos seus pedidos online. Ela valoriza a praticidade e a conveniência.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+2. Usuário Idoso: Antônio
+- Idade: 68 anos
+- Profissão: Aposentado
+- Experiência Tecnológica: Básica
+- Motivação: Antônio que utilizar o aplicativo para acompanhar seus pedidos de forma mais eficiente, mas necessita de um interface bastante intuitiva, simples e clara.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+3. Usuário Focado: Marcela
+- Idade: 37 anos
+- Profissão: Arquiteta
+- Experiência Tecnológica: Alta
+- Motivação: Marcela precisa acompanhar seus pedidos realizados para sua equipe de trabalho. Ela procura um aplicativo que ofereça atualizações detalhadas e, de preferência, em tempo real do status de seu pedido.
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
