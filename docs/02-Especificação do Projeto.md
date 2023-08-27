@@ -182,4 +182,4 @@ O processo de determinar o orçamento do projeto é uma tarefa que depende, alé
 | Infraestrutura em Nuvem | Serviços de hospedagem e armazenamento       | 15.000,00           |
 | **Total Tecnológico**   |                                               | 62.000,00           |
 | **Reserva para Contingências** |                                        | 19.500,00           |
-| **Total Estimado**      |                                               | **279.785,00**      |
+| **Total Estimado**      |                                               | **279.785,00**     |
