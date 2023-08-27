@@ -101,9 +101,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que os usuários façam login usando suas credenciais (nome de usuário ou e-mail e senha). | ALTA | 
-|RF-002| Validar as credenciais e conceder acesso ao aplicativo após a autenticação bem-sucedida. | ALTA | 
-|RF-003| Permitir que novos usuários se cadastrem fornecendo informações como nome, e-mail, senha, e possivelmente outros detalhes relevantes.   | ALTA |
+|RF-001| Permitir que novos usuários se cadastrem fornecendo informações como nome, e-mail, senha, e possivelmente outros detalhes relevantes. | ALTA | 
+|RF-002| Permitir que os usuários façam login usando suas credenciais (nome de usuário ou e-mail e senha). | ALTA | 
+|RF-003| Validar as credenciais e conceder acesso ao aplicativo após a autenticação bem-sucedida.   | ALTA |
 |RF-004| Validar os dados inseridos para garantir a integridade das informações.  | MÉDIA |
 |RF-005| Exibir as informações do perfil do usuário, como nome, imagem de perfil e detalhes de contato.   | MÉDIA |
 |RF-006| Permitir que os usuários atualizem suas informações de perfil, se necessário.   | MÉDIA |
