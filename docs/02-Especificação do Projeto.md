@@ -143,21 +143,7 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
 
-
-|      | RF-001 | RF-002 | RF-003 | RF-004 | RF-005 | RF-006 | RF-007 | RF-008 | RF-009 | RF-010 | RF-011 |
-|------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-|RF-001|       |   X    |        |        |        |        |        |        |        |        |        |
-|RF-002|        |      |        |        |        |        |        |        |        |        |        |
-|RF-003|        |        |       |        |        |        |        |        |        |        |        |
-|RF-004|        |        |        |       |        |        |        |        |        |        |        |
-|RF-005|        |        |        |        |       |   X    |        |        |        |        |        |
-|RF-006|        |        |        |        |   X    |      |        |        |        |        |        |
-|RF-007|        |        |        |        |        |        |       |   X    |   X    |   X    |        |
-|RF-008|        |        |        |        |        |        |        |       |   X    |        |        |
-|RF-009|        |        |        |        |        |        |        |        |       |        |        |
-|RF-010|        |        |        |        |        |        |        |        |        |      |        |
-|RF-011|        |        |        |        |        |        |        |        |        |        |       |
-
+![Matriz de Rastreabilidade](img/matriz-rastreabilidade.png)
 
 # Gerenciamento de Projeto
 
