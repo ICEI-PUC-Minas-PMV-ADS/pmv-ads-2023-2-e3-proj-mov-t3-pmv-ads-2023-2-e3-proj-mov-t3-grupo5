@@ -43,21 +43,24 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 * Ao realizar o login, gostaria de visualizar uma tela inicial simples com botões grandes e legíveis para acessar meus pedidos e outras funcionalidades.
 
 **3. História de Usuário de Marcela - Acompanhamento Detalhado:**
-    - Como Marcela, gostaria de realizar o login de maneira rápida no aplicativo, fornecendo apenas informações essenciais e que estas pudessem ficar salvas, agilizando o próximo acesso.
-    - Ao entrar no aplicativo, gostaria de visualizar meus pedidos recentes em destaque, com informações detalhadas, como produtos específicos e seus status. 
 
-**4. História de Usuário de Todos** - Fale Conosco:
-    - Como um usuário, gostaria de poder entrar em contato com o suporte do aplicativo.
-    - Na tela de "Fale Conosco", quero ter a opção de preencher um formulário ou iniciar uma conversa via whatsapp para relatar problemas ou realizar perguntas.
+- Como Marcela, gostaria de realizar o login de maneira rápida no aplicativo, fornecendo apenas informações essenciais e que estas pudessem ficar salvas, agilizando o próximo acesso.
+- Ao entrar no aplicativo, gostaria de visualizar meus pedidos recentes em destaque, com informações detalhadas, como produtos específicos e seus status. 
 
-**5. História de Usuário Marcela** - Atualizações em Tempo Real:
-    - Como Marcela, gostaria de receber notificações push sempre que houver uma atualização no status de um pedido.
-    - Gostaria também de poder visualizar as atualizações em tempo real na tela de detalhamento do pedido.
+**4. História de Usuário de Todos - Fale Conosco:**
 
-**6. História de Usuário Maria Eugênia** - Atualização de Perfil:
-    - Como Maria Eugênia, gostaria de atualizar minha foto de perfil e informações de contato quando necessário.
-    - Na tela de perfil, gostaria de ter a opção de editar e salvar essas informações atualizadas.
+- Como um usuário, gostaria de poder entrar em contato com o suporte do aplicativo.
+- Na tela de "Fale Conosco", quero ter a opção de preencher um formulário ou iniciar uma conversa via whatsapp para relatar problemas ou realizar perguntas.
 
+**5. História de Usuário Marcela - Atualizações em Tempo Real:**
+
+- Como Marcela, gostaria de receber notificações push sempre que houver uma atualização no status de um pedido.
+- Gostaria também de poder visualizar as atualizações em tempo real na tela de detalhamento do pedido.
+
+**6. História de Usuário Maria Eugênia - Atualização de Perfil:**
+
+- Como Maria Eugênia, gostaria de atualizar minha foto de perfil e informações de contato quando necessário.
+- Na tela de perfil, gostaria de ter a opção de editar e salvar essas informações atualizadas.
 
 ## Modelagem do Processo de Negócio 
 
