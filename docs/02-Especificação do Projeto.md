@@ -143,9 +143,21 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
 
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
+|      | RF-001 | RF-002 | RF-003 | RF-004 | RF-005 | RF-006 | RF-007 | RF-008 | RF-009 | RF-010 | RF-011 |
+|------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+|RF-001|   X    |   X    |        |        |        |        |        |        |        |        |        |
+|RF-002|        |   X    |        |        |        |        |        |        |        |        |        |
+|RF-003|        |        |   X    |        |        |        |        |        |        |        |        |
+|RF-004|        |        |        |   X    |        |        |        |        |        |        |        |
+|RF-005|        |        |        |        |   X    |   X    |        |        |        |        |        |
+|RF-006|        |        |        |        |   X    |   X    |        |        |        |        |        |
+|RF-007|        |        |        |        |        |        |   X    |   X    |   X    |   X    |        |
+|RF-008|        |        |        |        |        |        |        |   X    |   X    |        |        |
+|RF-009|        |        |        |        |        |        |        |        |   X    |        |        |
+|RF-010|        |        |        |        |        |        |        |        |        |   X    |        |
+|RF-011|        |        |        |        |        |        |        |        |        |        |   X    |
+
 
 > **Links Úteis**:
 > - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
