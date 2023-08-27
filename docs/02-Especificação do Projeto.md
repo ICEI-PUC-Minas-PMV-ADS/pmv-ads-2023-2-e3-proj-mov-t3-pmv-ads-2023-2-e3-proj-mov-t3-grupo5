@@ -109,10 +109,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| Permitir que os usuários atualizem suas informações de perfil, se necessário.   | MÉDIA |
 |RF-007| Mostrar uma lista dos pedidos feitos pelo usuário, exibindo detalhes básicos de cada pedido.   | ALTA |
 |RF-008| Permitir a seleção de um pedido para acessar a tela de detalhamento.   | MÉDIA |
-|RF-009| Mostrar uma lista dos pedidos feitos pelo usuário, exibindo detalhes básicos de cada pedido.   | ALTA |
-|RF-010| Exibir informações completas sobre um pedido específico, incluindo produtos, status do pedido, data de criação etc.   | MÉDIA |
-|RF-011| Fornecer atualizações em tempo real sobre o status do pedido, se disponível.   | ALTA |
-|RF-012| Oferecer uma maneira para os usuários entrarem em contato com o suporte, seja por meio de um formulário de contato ou Whatsapp.   | MÉDIA |
+|RF-009| Exibir informações completas sobre um pedido específico, incluindo produtos, status do pedido, data de criação etc.   | MÉDIA |
+|RF-010| Fornecer atualizações em tempo real sobre o status do pedido, se disponível.   | ALTA |
+|RF-011| Oferecer uma maneira para os usuários entrarem em contato com o suporte, seja por meio de um formulário de contato ou Whatsapp.   | MÉDIA |
 
 ### Requisitos não Funcionais
 
