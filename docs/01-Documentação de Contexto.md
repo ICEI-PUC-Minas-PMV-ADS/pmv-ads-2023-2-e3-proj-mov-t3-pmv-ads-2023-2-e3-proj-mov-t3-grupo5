@@ -1,6 +1,6 @@
 # Introdução
 
-Na era da modernidade em que estamos imersos, o tempo tem se tornado algo cada vez mais valioso, com base nisso cabe aos profissionais da área de T.I se especificarem cada vez mais a fim de entregar aplicativos mobile que entreguem simplicidade e objetividade em sua usuabilidade; como usar um "simples" dispositivo na palma da mão pode poupar um tempo extremamente precioso, esse projeto visa criar um sistema de pedidos e gerência empresarial onde o utente consiga de maneira simples consultar .
+Na era da modernidade em que estamos imersos, o tempo tem se tornado algo cada vez mais valioso, com base nisso cabe aos profissionais da área de T.I se especificarem cada vez mais a fim de entregar aplicativos mobile que entreguem simplicidade e objetividade em sua usabilidade; como usar um "simples" dispositivo na palma da mão pode poupar um tempo extremamente precioso, esse projeto visa criar um sistema de pedidos e gerência empresarial onde o utente consiga de maneira simples consultar .
 
 Dentre os inúmeros benefícios que uma aplicação mobile de gestão empresarial proporciona, destaca-se sua capacidade ímpar de agilizar uma diversidade de processos. Essa característica singular viabiliza a delegação de tarefas rotineiras, como faturamento e controle de estoque, ao sistema, resultando em economia de tempo e na minimização das chances de ocorrência de erros.
 
