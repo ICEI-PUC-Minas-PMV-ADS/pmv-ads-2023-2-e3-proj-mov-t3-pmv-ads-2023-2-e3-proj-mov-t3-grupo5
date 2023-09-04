@@ -17,7 +17,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 ## Modelo ER
 
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
+O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
 ![Diagrama ER 2023 02](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/assets/115122394/eeea2ee2-7370-4005-baf1-9b2103cb327c)
 
