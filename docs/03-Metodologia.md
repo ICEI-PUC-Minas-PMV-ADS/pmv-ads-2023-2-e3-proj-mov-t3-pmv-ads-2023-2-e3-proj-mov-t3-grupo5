@@ -59,11 +59,11 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 
-- Scrum Master: Mateus Curcino de Lima;
-- Gerente de Projeto: Hebert Eustáquio de Almeida Sandinha
-- Designer de UI/UX: Lucas Reis Alves;
-- Equipe de Desenvolvimento: Maria Luiza Gonçalves de Sousa e Rafaella Belisário Avidago;
-- QA Testers: Elves Teixeira Dias e Henrique de Brito Leite.
+- **Scrum Master**: Mateus Curcino de Lima;
+- **Gerente de Projeto**: Hebert Eustáquio de Almeida Sandinha
+- **Designer de UI/UX**: Lucas Reis Alves;
+- **Equipe de Desenvolvimento**: Maria Luiza Gonçalves de Sousa e Rafaella Belisário Avidago;
+- **QA Testers**: Elves Teixeira Dias e Henrique de Brito Leite.
 
 ### Processo
 
@@ -81,14 +81,13 @@ O quadro com as tarefas do grupo no Projects GitHub pode ser consultado através
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- **Editor de código**:
+- **Ferramentas de comunicação**: Whatsapp e Teams
+- **Ferramentas de desenho de tela** (_wireframing_)
+- **Ferramentas para Diagrama**: 
 
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
+O editor de código foi escolhido por possuir uma integração com o sistema de versão e em função de ser um programa de fácil acesso a todos do grupo.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+As ferramentas de comunicação utilizadas foram as que os integrantes do grupo já estavam acostumados, por serem mais práticas e usuais.
+
+Por fim, para criar diagramas utilizamos essas ferramentas por melhor captar as necessidades da nossa solução.
