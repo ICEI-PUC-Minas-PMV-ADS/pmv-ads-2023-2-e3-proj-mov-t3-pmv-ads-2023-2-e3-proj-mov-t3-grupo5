@@ -11,7 +11,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 *Repositório de código Fonte |GitHub| https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5
 
-*Documentos do Projeto | Google Drive | https://drive.google.com/drive/folders/1-6rtJkMlswNACmbWzMfF00e-pDvjxX9u
+*Documentos do Projeto | Google Drive | 
 
 *Projeto de Interface e Wireframes | 
 
@@ -57,31 +57,25 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 - Scrum Master: Mateus Curcino de Lima;
 - Gerente de Projeto: Hebert Eustáquio de Almeida Sandinha
 - Designer de UI/UX: Lucas Reis Alves;
 - Equipe de Desenvolvimento: Maria Luiza Gonçalves de Sousa e Rafaella Belisário Avidago;
-- Equipe de Design: Simone Nogueira.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
+- QA Testers: Elves Teixeira Dias e Henrique de Brito Leite.
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub Projects estruturado com as seguintes listas: 
+
+**Product Backlog**: recebe as tarefas a serem trabalhadas. Todas as atividades identificadas no decorrer do projeto devem ser incorporadas a esta lista.  
+**To Do**: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.   
+**In Progress**: Quando uma tarefa tiver sido iniciada, ela é movida para lá.   
+**Done**: Nesta lista são colocadas as tarefas que já foram finalizadas.
+
+O quadro com as tarefas do grupo no Projects GitHub pode ser consultado através da URL https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/479/views/3 e é apresentado, no estado atual, na figura abaixo.
+
 
 ### Ferramentas
 
