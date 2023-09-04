@@ -23,12 +23,17 @@ A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 foi utilizado para hospedagem do repositório.
 
+O modelo Gitflow é um fluxo de trabalho popular que utiliza várias branches para gerenciar o desenvolvimento de software com Git. Este modelo ajuda a manter uma estrutura organizada para o desenvolvimento de software, garantindo que todas as alterações de código sejam feitas nas branches corretas e que as mesclagens sejam feitas de forma adequada e controlada.   
+
 O projeto segue a seguinte convenção para o nome de branches:
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+
+- `master`: é a branch principal que contém o código do produto em produção. Todas alterações feitas nessa branch são destinadas à próxima versão de lançamento.
+- `develop`: é a branch principal com o código de desenvolvimento mais recente. As alterações de diferentes desenvolvedores são mescladas nesta branch à medida que são concluídas. Esta branch é utilizada como base para as próximas versões do produto.
+- `feature`: são as branches de recursos utilizadas para desenvolver novas funcionalidades ou melhorias no código, são criadas a partir da develop branch e juntadas a ela quando o trabalho é finalizado.    
+- `release`: são as branches usadas para preparar uma nova versão do produto para lançamento. Essas branches são criadas a partir da develop branch e são usadas para fazer ajustes finais antes do lançamento, como correções de bugs, atualizações de documentação, etc. Após o término dos ajustes, a branch é mesclada em master e develop.
+- `hotfix`: são as branches usadas para corrigir bugs críticos no código que está em produção. Essas branches são criadas a partir da master branch e, uma vez concluídas, são mescladas novamente em master e develop.
+
 
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
