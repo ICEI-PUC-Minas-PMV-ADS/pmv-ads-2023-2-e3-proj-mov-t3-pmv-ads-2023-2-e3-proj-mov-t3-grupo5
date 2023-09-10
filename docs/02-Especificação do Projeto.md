@@ -74,7 +74,8 @@ A aplicação móvel em desenvolvimento pretende corrigir tal situação por mei
 ### Processo 1 – Fluxo da aplicação
 
 
-![Trabalhoo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/assets/113618051/671206ff-cd77-4175-b89e-7e00b9cfc970)
+![2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/assets/113618051/6acc7dad-7fc5-4c6b-945b-45eb66b8e9b5)
+
 
 
 ## Indicadores de Desempenho
