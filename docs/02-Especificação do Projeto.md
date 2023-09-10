@@ -66,12 +66,11 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+O processo atual se esbarra em dificuldades que trazem à tona a ausência de uma aplicação que possa automatizar processos gerenciais na empresa, como : cadastro de usuário, checar pedidos, buscar suporte.
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
-
+A aplicação móvel em desenvolvimento pretende corrigir tal situação por meio de funcionalidades que visam o conforto e a autonomia do usuário em poder acessar e manusear processos que vão ajudar na gerencia da empresa e trazer comodidade para o fornecedor e pedinte.
 ### Processo 1 – Fluxo da aplicação
 
 
