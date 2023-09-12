@@ -66,6 +66,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro com as tarefas do grupo no Projects GitHub pode ser consultado através da URL https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/479/views/3 e é apresentado, no estado atual, na figura abaixo.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/assets/103864597/99e90380-99c6-4dd7-bf35-39e8503f63fb)
 
 ### Ferramentas
 
