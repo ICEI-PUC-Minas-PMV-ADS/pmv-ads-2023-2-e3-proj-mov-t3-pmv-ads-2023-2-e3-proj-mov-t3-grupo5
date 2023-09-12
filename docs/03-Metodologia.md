@@ -11,9 +11,9 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 *Repositório de código Fonte |GitHub| https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5
 
-*Documentos do Projeto | Google Drive | 
+*Documentos do Projeto | Google Drive | https://drive.google.com/drive/folders/1OfInTrB9o2vzecnCuOPZ3aUwEAfYOL1J
 
-*Projeto de Interface e Wireframes | 
+*Projeto de Interface e Wireframes | (link Figma)
 
 *Gerenciamento do Projeto |GitHub| https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/479/views/3
 
@@ -72,10 +72,10 @@ O quadro com as tarefas do grupo no Projects GitHub pode ser consultado através
 
 As ferramentas empregadas no projeto são:
 
-- **Editor de código**:
+- **Editor de código**: Expo Dev
 - **Ferramentas de comunicação**: Whatsapp e Teams
-- **Ferramentas de desenho de tela** (_wireframing_)
-- **Ferramentas para Diagrama**: 
+- **Ferramentas de desenho de tela**: Figma
+- **Ferramentas para Diagrama**: Creately, Jira, Astah e Power Architect
 
 O editor de código foi escolhido por possuir uma integração com o sistema de versão e em função de ser um programa de fácil acesso a todos do grupo.
 
