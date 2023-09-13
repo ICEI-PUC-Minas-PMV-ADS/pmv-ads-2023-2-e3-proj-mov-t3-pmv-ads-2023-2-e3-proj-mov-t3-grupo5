@@ -80,12 +80,13 @@ A aplicação móvel em desenvolvimento pretende corrigir tal situação por mei
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
-
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posterior. 
+|  Idnicador  | Descrição|Calculo|Fonte de dados| Perspectiva|
+|-------------|----------|-------|--------------|------------|
+| Usuários cadastrados| Levantamento total usuários| Média mensal | Levantamento total de usuários |  Crescimento na quantidade de novos cadastros | 
+| Contato de suporte| Quantidade de usuários que contatam o suporte e suas necessidades | Levantamento mensal| Planilia de chamado | Avaliar as requisições de suporte a fim implementar possíveis melhorias  |
+| Taxa de retenção de usuário|  Porcentagem de usuários que retornam ao aplicativo após a primeira interação. |       |Levantamento total de usuários ativos |Analisar o valor que a aplicação tem para o usuário|
+| Avaliação do cliente |Coletar feedback dos clientes|       | Classificações e comentários| Medir a satisfação do cliente e identificar áreas que precisam de melhorias |
+|Média de pedidos | Quantificar os pedidos feitos|Média mensal|Levantamento mensal|Ajuda a avaliar o desempenho geral dos pedidos|
 
 ## Requisitos
 
