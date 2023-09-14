@@ -13,7 +13,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 *Documentos do Projeto | Google Drive | https://drive.google.com/drive/folders/1OfInTrB9o2vzecnCuOPZ3aUwEAfYOL1J
 
-*Projeto de Interface e Wireframes | (link Figma)
+*Projeto de Interface e Wireframes | https://www.figma.com/file/HQkD2pSAfCzWCP3KORiBYd/PROJETO-PUC-MINAS---VIDRO-ARTE?type=design&node-id=37-6&mode=design&t=baYZV6zDdBLhbYf4-0
 
 *Gerenciamento do Projeto |GitHub| https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/479/views/3
 
