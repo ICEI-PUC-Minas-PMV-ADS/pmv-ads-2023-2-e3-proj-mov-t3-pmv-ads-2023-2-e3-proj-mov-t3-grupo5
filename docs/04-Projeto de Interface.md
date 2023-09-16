@@ -20,7 +20,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-Projeto de Interface e Wireframes pode ser acessado no seguinte link | https://www.figma.com/file/PHCvQIINXEvnwaB86Bh6Hd/Untitled?type=design&node-id=0-1&mode=design&t=N1374xcrykQt5jFg-0
+<p> Projeto de Interface e Wireframes pode ser acessado no seguinte link | https://www.figma.com/file/PHCvQIINXEvnwaB86Bh6Hd/Untitled?type=design&node-id=0-1&mode=design&t=N1374xcrykQt5jFg-0 </p>
 
 Conforme fluxo de telas do projeto apresentado no item anterior, as telas do sistema estão detalhadas nos itens que se seguem:
 
