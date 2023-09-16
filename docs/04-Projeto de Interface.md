@@ -23,9 +23,13 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 Conforme fluxo de telas do projeto apresentado no item anterior, as telas do sistema estão detalhadas nos itens que se seguem:
 
 ● Login: Realiza a verificação da identidade do usuário por meio do fornecimento de informações nos campos de email e senha. Se for a primeira vez que o usuário acessa o sistema, ele deverá se cadastrar usando a opção "Registrar-se".
+
 ● Sign Up: Tela de interface de usuário da aplicação que permite que novos usuários se inscrevam ou criem uma conta para acessar os serviços ou recursos oferecidos pela plataforma. 
+
 ● Home: Tela inicial projetada para fornecer uma visão geral das principais funcionalidades, conteúdo e opções disponíveis na aplicação.
+
 ● History: Funcionalidade que permite o acesso do usuário ao detalhamaento do pedido realizado, contendo informações do produto.
+
 ● Profile: Exibe informações específicas sobre o usuário registrado ou perfil de conta. Contém detalhes pessoais, que incluem Nome, e-mail e foto.
 
 
