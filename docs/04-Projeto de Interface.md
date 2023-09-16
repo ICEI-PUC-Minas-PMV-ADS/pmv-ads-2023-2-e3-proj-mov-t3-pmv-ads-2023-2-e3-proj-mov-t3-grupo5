@@ -9,6 +9,17 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Diagrama de Fluxo
 
+O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
+
+![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
+
+As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
+
+> **Links Úteis**:
+> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
+
+## Wireframes
+
 Conforme fluxo de telas do projeto apresentado no item anterior, as telas do sistema estão detalhadas nos itens que se seguem:
 
 Login: Realiza a verificação da identidade do usuário por meio do fornecimento de informações nos campos de email e senha. Se for a primeira vez que o usuário acessa o sistema, ele deverá se cadastrar usando a opção "Registrar-se".
@@ -21,18 +32,6 @@ History: Funcionalidade que permite o acesso do usuário ao detalhamaento do ped
 
 Profile: Exibe informações específicas sobre o usuário registrado ou perfil de conta. Contém detalhes pessoais, que incluem Nome, e-mail e foto.
 
-
-
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
-
-![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
-
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
-
-## Wireframes
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
