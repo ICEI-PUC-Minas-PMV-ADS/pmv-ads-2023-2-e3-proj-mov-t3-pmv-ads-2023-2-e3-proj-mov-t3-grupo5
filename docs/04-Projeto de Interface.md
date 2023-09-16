@@ -26,9 +26,9 @@ As telas do sistema estão detalhadas nos itens que se seguem:
 
 - *Login*: Realiza a verificação da identidade do usuário por meio do fornecimento de informações nos campos de email e senha. Se for a primeira vez que o usuário acessa o sistema, ele deverá se cadastrar usando a opção "Criar conta".
 
-<div align="center">
+<p align="center">
      <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/blob/main/docs/img/LOGIN%20WIREFRAME.PNG" alt="login">
-</div>
+</p>
 
 - *Sign Up*: Tela de interface de usuário da aplicação que permite que novos usuários se inscrevam ou criem uma conta para acessar os serviços ou recursos oferecidos pela plataforma. 
 
