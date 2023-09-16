@@ -35,6 +35,8 @@ As telas do sistema estão detalhadas nos itens que se seguem:
 
 - *Home*: Tela inicial projetada para fornecer uma visão geral das principais funcionalidades, conteúdo e opções disponíveis na aplicação.
 
+ ![Home](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/blob/main/docs/img/HOME%20WI
+
 - *History*: Funcionalidade que permite o acesso do usuário ao detalhamaento do pedido realizado, contendo informações do produto.
 
 -  *Profile*: Exibe informações específicas sobre o usuário registrado ou perfil de conta. Contém detalhes pessoais, que incluem Nome, e-mail e foto.
