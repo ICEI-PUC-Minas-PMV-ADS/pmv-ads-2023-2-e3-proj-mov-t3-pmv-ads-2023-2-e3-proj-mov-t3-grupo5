@@ -9,7 +9,19 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Diagrama de Fluxo
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
+Conforme fluxo de telas do projeto apresentado no item anterior, as telas do sistema estão detalhadas nos itens que se seguem:
+
+Login: Realiza a verificação da identidade do usuário por meio do fornecimento de informações nos campos de email e senha. Se for a primeira vez que o usuário acessa o sistema, ele deverá se cadastrar usando a opção "Registrar-se".
+
+Sign Up: Tela de interface de usuário da aplicação que permite que novos usuários se inscrevam ou criem uma conta para acessar os serviços ou recursos oferecidos pela plataforma. 
+
+Home: Tela inicial projetada para fornecer uma visão geral das principais funcionalidades, conteúdo e opções disponíveis na aplicação.
+
+History: Funcionalidade que permite o acesso do usuário ao detalhamaento do pedido realizado, contendo informações do produto.
+
+Profile: Exibe informações específicas sobre o usuário registrado ou perfil de conta. Contém detalhes pessoais, que incluem Nome, e-mail e foto.
+
+
 
 O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
 
