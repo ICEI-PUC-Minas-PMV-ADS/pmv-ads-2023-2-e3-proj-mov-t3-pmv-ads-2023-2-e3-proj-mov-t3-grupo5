@@ -38,9 +38,11 @@ As telas do sistema estão detalhadas nos itens que se seguem:
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/blob/main/docs/img/HOME%20WIREFRAME.PNG" alt="home">
 
-
-
 - *History*: Funcionalidade que permite o acesso do usuário ao detalhamaento do pedido realizado, contendo informações do produto.
+
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/blob/main/docs/img/HISTORY%20WIREFRAME.PNG" alt="History">
+
 
 -  *Profile*: Exibe informações específicas sobre o usuário registrado ou perfil de conta. Contém detalhes pessoais, que incluem Nome, e-mail e foto.
 
