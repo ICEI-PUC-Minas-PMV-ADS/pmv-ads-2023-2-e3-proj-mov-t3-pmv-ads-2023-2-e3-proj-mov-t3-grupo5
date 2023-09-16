@@ -33,14 +33,12 @@ As telas do sistema estão detalhadas nos itens que se seguem:
 - *Sign Up*: Tela de interface de usuário da aplicação que permite que novos usuários se inscrevam ou criem uma conta para acessar os serviços ou recursos oferecidos pela plataforma. 
 
 <p align="center">
-      ![Sign Up](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/blob/main/docs/img/SIGN%20UP%20WIREFRAME.PNG)
+    ![Sign Up](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/blob/main/docs/img/SIGN%20UP%20WIREFRAME.PNG)
 </p>
 
 - *Home*: Tela inicial projetada para fornecer uma visão geral das principais funcionalidades, conteúdo e opções disponíveis na aplicação.
 
-<p align="center">
-       <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/blob/main/docs/img/HOME%20WIREFRAME.PNG" alt="home">
-</p>
+<p align="center"><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/blob/main/docs/img/HOME%20WIREFRAME.PNG" alt="home"> </p>
 
 - *History*: Funcionalidade que permite o acesso do usuário ao detalhamaento do pedido realizado, contendo informações do produto.
 
