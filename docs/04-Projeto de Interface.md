@@ -24,7 +24,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 As telas do sistema estão detalhadas nos itens que se seguem:
 
-● Login: Realiza a verificação da identidade do usuário por meio do fornecimento de informações nos campos de email e senha. Se for a primeira vez que o usuário acessa o sistema, ele deverá se cadastrar usando a opção "Registrar-se".
+● *Login*: Realiza a verificação da identidade do usuário por meio do fornecimento de informações nos campos de email e senha. Se for a primeira vez que o usuário acessa o sistema, ele deverá se cadastrar usando a opção "Registrar-se".
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/blob/main/docs/img/LOGIN%20WIREFRAME.PNG" alt="Descrição da imagem">
 
