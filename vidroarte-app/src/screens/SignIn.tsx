@@ -1,72 +1,62 @@
-import { useNavigation } from "@react-navigation/native";
-import { VStack, Image, Text, Center, Heading, ScrollView } from "native-base";
+import { NativeBaseProvider, VStack, Image, Center, Text, Heading, Input } from "native-base";
 
-import { AuthNavigatorRoutesProps } from '@routes/auth.routes';
-
-import LogoSvg from '@assets/logo.svg';
-import BackgroundImg from '@assets/background.png';
-
-import { Input } from "@components/Input";
-import { Button } from "@components/Button";
+import BackgroundImg from 'assets/back.png';
+import Logo from 'assets/logo.png';
+//import { Input } from './components/Input';
 
 export function SignIn() {
-
-  const navigation = useNavigation<AuthNavigatorRoutesProps>();
-
-  function handleNewAccount() {
-    navigation.navigate('signUp');
-  }
-
   return (
-    <ScrollView contentContainerStyle={{ flexGrow: 1 }} showsVerticalScrollIndicator={false}>
-        <VStack flex={1} px={10} pb={16}>
+    <NativeBaseProvider>
+      <VStack flex={1} bg="gray.700" px={10}>
         <Image 
           source={BackgroundImg}
-          defaultSource={BackgroundImg}
-          alt="Pessoas treinando"
+          alt="Peças de Vidro"
           resizeMode="contain"
           position="absolute"
         />
-
+      
         <Center my={24}>
-          <LogoSvg />
-
+          <Image 
+            source={Logo}
+            alt="Vidroarte"
+          />
           <Text color="gray.100" fontSize="sm">
-            Treine sua mente e o seu corpo.
+            Qualidade e Excelência
           </Text>
         </Center>
 
-        <Center>
-          <Heading color="gray.100" fontSize="xl" mb={6} fontFamily="heading">
-            Acesse a conta
-          </Heading>
+      <Center>
+        <Heading color="gray.100" fontSize="xl" mb={6} fontFamily="heading">
+          Acesse a conta
+        </Heading>
 
-          <Input 
-            placeholder="E-mail" 
-            keyboardType="email-address"
-            autoCapitalize="none"
-
+        <Input 
+          placeholder="E-mail"
+          keyboardType="email-address"
+          autoCapitalize = "none"
+          px={4}
+          borderWidth={1}
+          fontSize="md"
+          color="white"
+          fontFamily = "body"
+          mb={4}
+          placeholderTextColor="gray.300"
           />
-          <Input 
-            placeholder="Senha" 
-            secureTextEntry
-          />
+        <Input 
+          placeholder="Senha" 
+          secureTextEntry = {true}
+          px={4}
+          borderWidth={1}
+          fontSize="md"
+          color="white"
+          fontFamily = "body"
+          mb={4}
+          placeholderTextColor="gray.300"
+        />
 
-          <Button title="Acessar" />
-        </Center>
+      </Center>
 
-        <Center mt={24}>
-          <Text color="gray.100" fontSize="sm" mb={3} fontFamily="body">
-            Ainda não tem acesso?
-          </Text>
-
-          <Button 
-            title="Criar Conta" 
-            variant="outline"
-            onPress={handleNewAccount}
-          />
-        </Center>
       </VStack>
-    </ScrollView>
+    </NativeBaseProvider>
   );
 }

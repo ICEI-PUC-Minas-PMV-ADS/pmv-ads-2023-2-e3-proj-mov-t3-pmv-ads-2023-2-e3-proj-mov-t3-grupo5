@@ -13,11 +13,11 @@
     "react-native": "0.71.8",
     "expo-font": "~11.1.1",
     "native-base": "^3.4.16",
-    "react-native-svg": "13.4.0",
-    "@expo-google-fonts/roboto": "^0.2.2",
-    "react-native-safe-area-context": "4.5.0",
     "@types/react": "*",
-    "@types/react-native": "*"
+    "react-native-svg": "13.4.0",
+    "@types/react-native": "*",
+    "@expo-google-fonts/roboto": "^0.2.2",
+    "react-native-safe-area-context": "4.5.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
