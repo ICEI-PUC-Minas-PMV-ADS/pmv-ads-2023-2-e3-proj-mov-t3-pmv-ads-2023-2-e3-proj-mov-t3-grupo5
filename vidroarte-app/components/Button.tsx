@@ -15,7 +15,7 @@ export function Button({ title, variant = 'solid', ...rest }: Props) {
       borderColor="#818893"
       rounded="sm"
       _pressed={{
-        bg: variant === "outline" ? "gray.500" : "#335C81",
+        bg: variant === "outline" ? "#4C88B0" : "#335C81",
       }}
       {...rest}
     >
