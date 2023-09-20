@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ignite-rn-03-ignite-gym",
-    "slug": "ignite-rn-03-ignite-gym",
+    "name": "vidroarte-app",
+    "slug": "vidroarte-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
