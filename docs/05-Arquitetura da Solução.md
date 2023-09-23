@@ -30,12 +30,12 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 Segue abaixo uma lista de tecnologias ultilizadas atualmente para a resolução da problemática.
 
-Linguagem: JavaScript
-Biblioteca: React Native
-IDE: Visual Studio Code
-Ferramenta Wireframes: Figma
-Ferramenta de Comunicação: Whatsapp e Teams
-Ferramenta de Gestão de Projeto: Github Projects
+> - Linguagem: JavaScript
+> - Biblioteca: React Native
+> - IDE: Visual Studio Code
+> - Ferramenta Wireframes: Figma
+> - Ferramenta de Comunicação: Whatsapp e Teams
+> - Ferramenta de Gestão de Projeto: Github Projects
 ## Hospedagem
 
 Explique como a hospedagem e o lançamento da plataforma foi feita.
