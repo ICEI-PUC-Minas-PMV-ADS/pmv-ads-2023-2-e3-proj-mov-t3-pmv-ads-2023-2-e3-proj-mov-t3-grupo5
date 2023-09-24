@@ -1,3 +1,4 @@
+import { useNavigation } from "@react-navigation/native";
 import {
   NativeBaseProvider,
   VStack,
@@ -14,6 +15,12 @@ import { Input } from "/../components/Input.tsx";
 import { Button } from "/../components/Button.tsx";
 
 export function SignUp() {
+  const navigation = useNavigation();
+
+  function handleGoBack() {
+    navigation.goBack();
+  }
+
   return (
     <NativeBaseProvider>
       <ScrollView
@@ -40,9 +47,7 @@ export function SignUp() {
               Crie sua conta
             </Heading>
 
-            <Input
-              placeholder="Nome"
-            />
+            <Input placeholder="Nome" />
 
             <Input
               placeholder="E-mail"
@@ -55,7 +60,12 @@ export function SignUp() {
             <Button title="Criar e acessar" />
           </Center>
 
-          <Button title="Voltar para o login" variant="outline" mt={24} />
+          <Button
+            title="Voltar para o login"
+            variant="outline"
+            mt={24}
+            onPress={handleGoBack}
+          />
         </VStack>
       </ScrollView>
     </NativeBaseProvider>
