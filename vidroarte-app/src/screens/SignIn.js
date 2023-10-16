@@ -25,6 +25,10 @@ export function SignIn() {
     navigation.navigate('signUp');
 
   }
+  function verificaUsuario(){
+    navigation.navigate('Autentica');
+
+  }
 
   return (
     <NativeBaseProvider>
@@ -58,7 +62,7 @@ export function SignIn() {
 
           <Input placeholder="Senha" getElementById="senha" secureTextEntry />
 
-          <Button title="Acessar" onPress={verificaUsuario}/>
+          <Button title="Acessar" variant="outline" onPress={verificaUsuario}/>
         </Center>
 
         <Center mt={24}>

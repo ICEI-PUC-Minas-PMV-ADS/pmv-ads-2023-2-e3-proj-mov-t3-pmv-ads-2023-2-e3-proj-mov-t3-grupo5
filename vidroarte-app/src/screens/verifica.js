@@ -1,4 +1,6 @@
-async function verificaUsuario() {
+
+export async function Autentica() {
+    const navigation = useNavigation();
     const res = await fetch("usuarios.json");
     const contato = await res.json();
     usuarioSistema = document.getElementById('usuario')
