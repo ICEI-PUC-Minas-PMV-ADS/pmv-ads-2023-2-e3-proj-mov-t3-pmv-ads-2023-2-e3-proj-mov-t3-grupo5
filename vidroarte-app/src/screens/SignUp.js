@@ -44,7 +44,7 @@ export function SignUp() {
 
           <Center>
             <Heading color="gray.100" fontSize="xl" mb={6} fontFamily="heading">
-              Crie sua conta
+              Crie a sua conta
             </Heading>
 
             <Input placeholder="Nome" />
