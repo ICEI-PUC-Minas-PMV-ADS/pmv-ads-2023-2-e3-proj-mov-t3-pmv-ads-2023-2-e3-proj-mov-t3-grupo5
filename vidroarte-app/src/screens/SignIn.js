@@ -52,12 +52,13 @@ export function SignIn() {
           <Input
             placeholder="E-mail"
             keyboardType="email-address"
+            getElementById="usuario"
             autoCapitalize="none"
           />
 
-          <Input placeholder="Senha" secureTextEntry />
+          <Input placeholder="Senha" getElementById="senha" secureTextEntry />
 
-          <Button title="Acessar" />
+          <Button title="Acessar" onPress={verificaUsuario}/>
         </Center>
 
         <Center mt={24}>
