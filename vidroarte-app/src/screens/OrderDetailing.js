@@ -1,6 +1,6 @@
 import { TouchableOpacity } from "react-native";
 
-import { Box, Heading, HStack, Icon, Image, Text, VStack } from "native-base";
+import {  Heading, HStack, Icon, Image, Text, VStack } from "native-base";
 import { Feather } from "@expo/vector-icons";
 
 import { useNavigation } from "@react-navigation/native";
@@ -9,7 +9,6 @@ import { AppNavigatorRoutesProps } from "@routes/app.routes";
 import BodySvg from "@assets/body.svg";
 
 import { DetailingCard } from "@components/DetailingCard";
-import { Button } from "@components/Button.tsx";
 
 export function OrderDetailing() {
   const navigation = useNavigation(AppNavigatorRoutesProps);
@@ -31,7 +30,7 @@ export function OrderDetailing() {
           mb={8}
           alignItems="center"
         >
-          <Heading color="gray.100" fontSize="lg" flexShrink={1}>
+          <Heading color="gray.100" fontSize="lg" flexShrink={1} fontFamily="heading">
             Porta de Vidro Jateado
           </Heading>
 
@@ -46,7 +45,7 @@ export function OrderDetailing() {
       </VStack>
 
       <VStack px={8} pt={12}>
-        <Heading mb={5} color="white" fontSize="lg">
+        <Heading mb={5} color="white" fontSize="lg" fontFamily="heading">
           Informações Técnicas
         </Heading>
 

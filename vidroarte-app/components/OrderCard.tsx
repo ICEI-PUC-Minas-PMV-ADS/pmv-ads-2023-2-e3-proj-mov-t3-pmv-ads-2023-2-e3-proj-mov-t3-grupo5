@@ -22,7 +22,7 @@ export function OrderCard({ ...rest }: Props) {
         />
 
         <VStack flex={1}>
-          <Heading fontSize="lg" color="white">
+        <Heading fontSize="lg" color="white" fontFamily="heading">
             Porta de Vidro Jateado
           </Heading>
 
