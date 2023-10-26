@@ -17,8 +17,18 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 | Teste 01     |  Cadastro bem-sucedido do usuário                                                                  | 
 | ------- | ------------------------------------------------------------------------------------------------------------ | 
 | Descrição | Tentativa de cadastro com as credenciais corretas de um usuário. | 
-| Ações esperadas | 1- Acessar a tela de login. 2- Digitar o nome de usuário, email e senha. 3- Clicar no botão "Criar e acessar". 4- Verificar se o usuário é redirecionado para a página inicial do aplicativo. |
+| Ações esperadas | 1- Acessar a tela de cadastro de usuários. 2- Digitar o nome de usuário, email e senha. 3- Clicar no botão "Criar e acessar". 4- Verificar se o usuário é redirecionado para a página inicial do aplicativo. |
 | Resultado | O usuário é cadastrado e direcionado para a página inicial do aplicativo. |
 | Vídeo | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/assets/115122394/3b50e48a-fca3-4485-87eb-592f6fdde568|
 
 <br>
+
+| Teste 02     |  Tentativa de cadastro de usuário já cadastrado                                                                  | 
+| ------- | ------------------------------------------------------------------------------------------------------------ | 
+| Descrição |  Tentativa de cadastro de um usuário já cadastrado. | 
+| Ações esperadas | 1- Acessar a tela de cadastro de usuários. 2- Preencher as informações do usuário. 3- Clicar no botão "Criar e acessar". 4- Verificar se uma mensagem de erro é exibida indicando o email informado já está em uso. |
+| Resultado | Uma mensagem de erro é exibida: "Este e-mail já está em uso". |
+| Vídeo | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/assets/115122394/0dd38c87-8618-4020-ad75-62f8edbdcab7 |
+
+<br>
+
