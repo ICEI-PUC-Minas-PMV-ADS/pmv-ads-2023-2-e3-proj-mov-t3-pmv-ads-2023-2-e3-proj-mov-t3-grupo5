@@ -57,3 +57,12 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 
 <br>
 
+| Teste 02     |  Autenticação mal-sucedida do usuário inválido                                                                  | 
+| ------- | ------------------------------------------------------------------------------------------------------------ | 
+| Descrição | Tentativa de login com as credenciais inválidas. | 
+| Ações esperadas | 1- Acessar a tela de login. 2- Digitar um e-mail e/ou uma senha inválida. 3- Clicar no botão "Acessar". 4- Verificar se uma mensagem de erro é exibida indicando que as credenciais são inválidas. |
+| Resultado | Uma mensagem de erro é exibida: "E-mail e/ou senha incorreta". |
+| Tela | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/assets/115122394/11dfa18d-8ea5-4a74-bfce-71565eca7e15 |
+
+<br>
+
