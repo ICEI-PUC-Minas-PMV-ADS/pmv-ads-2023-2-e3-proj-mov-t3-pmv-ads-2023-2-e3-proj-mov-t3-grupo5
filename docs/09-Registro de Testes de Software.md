@@ -53,8 +53,7 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 | Descrição | Tentativa de login com as credenciais corretas de um usuário cadastrado. | 
 | Ações esperadas | 1- Acessar a tela de login. 2- Digitar o e-mail e senha corretos. 3- Clicar no botão "Acessar". 4- Verificar se o usuário é redirecionado para a página inicial do aplicativo. |
 | Resultado | O usuário é autenticado e redirecionado para a página inicial do aplicativo. |
-| Vídeo |
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/assets/115122394/fba28563-de51-47bf-9534-5446d495d38d|
+| Vídeo | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/assets/115122394/fba28563-de51-47bf-9534-5446d495d38d|
 
 <br>
 
