@@ -6,7 +6,7 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 
 # Avaliação 
 
-| Caso de teste 02     |  CT 01 - Cadastrar Novos Usuários                                                                   | 
+| Caso de teste 01     |  CT 01 - Cadastrar Novos Usuários                                                                   | 
 | ------- | ------------------------------------------------------------------------------------------------------------ | 
 | Objetivo do teste | Verificar se a tela de cadastro de usuários do sistema permite o cadastro correto de novos usuários e se as informações são armazenadas e exibidas corretamente. | 
 | Escopo | Testar a funcionalidade da tela de cadastro de usuários para diferentes cenários. |
