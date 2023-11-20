@@ -23,4 +23,52 @@ Reunir, contabilizar e sumarizar os dados coletados dos participantes
 
 Relatar a performance e a opinião dos participantes    
 
-No caso específico do nosso sistema, os participantes irão executar as seguintes tarefas: 
+No caso específico do nosso sistema, os participantes irão executar as seguintes tarefas:
+
+- cadastro de novo usuário
+- longin de usuário
+- editar as informações de perfil do usuário
+- detalhar cada pedido do usuário
+- testar o suporte de usuário
+
+Os nossos participantes foram possíveis usuários do nosso aplicativo. 
+
+## **Segue tabela com cada caso de teste**:
+#
+
+| Caso de teste 01     |  CT 01 - Cadastro de novo usuário                                                                    | 
+| ------- | ------------------------------------------------------------------------------------------------------------ | 
+| Objetivo do teste | Verificar a usabilidade da tela de cadastro de usuário, avaliando a facilidade de uso e a experiência do usuário            | 
+| Ações esperadas | 1- Acessar a area de cadastro de usuário. 2- Colocar os dados do usuário. 3- Clicar em cadastrar.      |
+| Critérios de êxito | Um novo usuário será cadastrado.                                                                       |
+<br>
+
+| Caso de teste 02     |  CT 02 - Fazer login usuário                                                                 | 
+| ------- | ------------------------------------------------------------------------------------------------------------ | 
+| Objetivo do teste | Verificar a usabilidade da tela de login, avaliando a facilidade de uso e a experiência do usuário            | 
+| Ações esperadas |  1- Colocar login e senha válidos. 2- Entrar na sua conta     |
+| Critérios de êxito | Fazer o login corretamente.                                                          |
+<br>
+
+| Caso de teste 03     |  CT 03 - Editar as informações de perfil do usuário                                               | 
+| ------- | ------------------------------------------------------------------------------------------------------------ | 
+| Objetivo do teste | Verificar a usabilidade da edição das informações de perfil do usuário, avaliando a facilidade de uso e a experiência do mesmo           | 
+| Ações esperadas | 1- Realizar login do usuário. 2-Acessar a tela de perfil. 3- Editar informações (nome, foto, alteração de senha).      |
+| Critérios de êxito | Realizar as alterações necessárias.   |
+
+<br>
+
+| Caso de teste 04     |  CT 04 - Detalhar cada pedido do usuário                                                          | 
+| ------- | ------------------------------------------------------------------------------------------------------------ | 
+| Objetivo do teste | Verificar a usabilidade da tela de detalhar pedido, avaliando a facilidade de uso e a experiência do usuário            | 
+| Ações esperadas |  1- Realizar login do usuário. 2- Clicar sobre o pedido que deseja detalhar. 3- Acessar o detalhamento do pedido.    |
+| Critérios de êxito | Acessar a tela com o detalhamento do pedido.                                                         |
+<br>
+
+| Caso de teste 05     |  CT 05 - Testar o suporte de usuário                                                                    | 
+| ------- | ------------------------------------------------------------------------------------------------------------ | 
+| Objetivo do teste | Verificar a usabilidade do suporte de usuário, avaliando a facilidade de uso e a experiência do usuário           | 
+| Ações esperadas | 1- Acessar a área de suporte de usuário. 2- Clicar no botão para entrar em contato com o suporte de usuário.      |
+| Critérios de êxito | Abertura de um canal para que o usuário possa entrar em contato com o suporte.                       |
+<br>
+
