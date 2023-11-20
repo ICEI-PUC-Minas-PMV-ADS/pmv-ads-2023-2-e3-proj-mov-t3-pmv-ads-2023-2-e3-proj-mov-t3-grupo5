@@ -66,3 +66,25 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 
 <br>
 
+| Caso de teste 03     |  CT 03 - Exibir e editar informações                                                               | 
+| ------- | ------------------------------------------------------------------------------------------------------------ | 
+| Objetivo do teste | Verificar se o aplictivo exibi as informações corretas do perfil logado e se permite que estas informações sejam atualizadas pelo usuáurio.| 
+| Escopo | Testar a funcionalidade de exibir e editar as informações que consta no perfil do usuário logado. |
+
+<br>
+
+| Teste 01     |  Exibir as informações do usuário logado                                                             | 
+| ------- | ------------------------------------------------------------------------------------------------------------ | 
+| Descrição | Tentativa de login com as credenciais corretas de um usuário cadastrado para exibição das informações corretas do mesmo. | 
+| Ações esperadas | 1- Acessar a tela de login. 2- Digitar o e-mail e senha corretos. 3- Clicar no botão "Acessar". 4- Verificar se o usuário é redirecionado para a página inicial do aplicativo, que permite acessar o seu perfil com suas informações. |
+| Resultado | O usuário é autenticado e consegue acessar a página do seu perfil no aplicativo. |
+| Vídeo | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t8-VidroArte/assets/115122394/76b9e37a-68d0-415a-8f8b-74bbb7787a3e|
+
+<br>
+
+| Teste 02     |  Editar as informações do usuário logado                                                             | 
+| ------- | ------------------------------------------------------------------------------------------------------------ | 
+| Descrição | Tentativa de login com as credenciais corretas de um usuário cadastrado para edição das informações do mesmo. | 
+| Ações esperadas | 1- Acessar a tela de login. 2- Digitar o e-mail e senha corretos. 3- Clicar no botão "Acessar". 4- Verificar se o usuário é redirecionado para a página inicial do aplicativo, que permite acessar o seu perfil com suas informações, para que estas possam ser editadas. |
+| Resultado | O usuário é autenticado e acessa a página do seu perfil no aplicativo, onde consegue editar/atualizar suas informações, como nome, foto de perfil e alteração de senha. |
+| Vídeo | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t8-VidroArte/assets/115122394/76b9e37a-68d0-415a-8f8b-74bbb7787a3e|
