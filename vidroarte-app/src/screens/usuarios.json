@@ -1,0 +1,38 @@
+[
+    { "nome": "Antônio dos Anjos",
+      "email": "antonio@abc.com.br",
+      "telefone": "031-98232-4455",
+      "usuario": "antonio",
+      "senha":"12345"
+    },
+    { "nome": "Carlos Amaral",
+      "email": "carlos@xyz.com.br",
+      "telefone": "031-97628-3349",
+      "usuario": "carlos",
+      "senha":"12345"
+    },
+    { "nome": "Rafaella",
+    "email": "rafaella@xyz.com.br",
+    "telefone": "031-97628-3349",
+    "usuario": "rafaella",
+    "senha":"12345"
+    },
+    { "nome": "elves",
+    "email": "elves@xyz.com.br",
+    "telefone": "031-97628-3349",
+    "usuario": "elves",
+    "senha":"12345"
+    },
+    { "nome": "Hebert",
+    "email": "hebert@xyz.com.br",
+    "telefone": "031-97628-3349",
+    "usuario": "hebert",
+    "senha":"12345"
+    },
+    { "nome": "cibele",
+    "email": "cibele@xyz.com.br",
+    "telefone": "031-97628-3349",
+    "usuario": "cibele",
+    "senha":"12345"
+    }
+]
