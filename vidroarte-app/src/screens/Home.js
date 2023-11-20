@@ -1,21 +1,90 @@
-import { useState } from "react";
-import { useNavigation } from '@react-navigation/native';
+import { useState, useEffect, useCallback } from "react";
+import { useNavigation, useFocusEffect } from '@react-navigation/native';
 import { Group } from "@components/Group";
 import { HomeHeader } from "@components/HomeHeader";
-import { FlatList, Heading, HStack, Text, VStack } from "native-base";
+import { FlatList, Heading, HStack, Text, VStack, useToast } from "native-base";
 import { OrderCard } from "@components/OrderCard";
 import { AppNavigatorRoutesProps } from '@routes/app.routes';
 
+
+import { api } from '@services/api';
+import { AppError } from "@utils/AppError";
+import { string } from "yup";
+import { OrderDetailing } from "./OrderDetailing";
+
+
 export function Home() {
-  const [groups, setGroups] = useState(['Pedidos', 'Busca', 'Suporte']);
-  const [pedidos, setPedidos] = useState(['Pedidos', 'Busca', 'Suporte']);
+  const [groups, setGroups] = useState([]);
+  const [pedidos, setOrder] = useState([]);
   const [groupSelected, setGroupSelected] = useState('Pedidos');
 
   const navigation = useNavigation(AppNavigatorRoutesProps);
+  const toast = useToast();
 
   function handleOpenOrderDetails() {
     navigation.navigate('orderDetailing');
   }
+  async function fetchGroups() {
+
+    try {
+
+      const response = await api.get('/groups');
+    
+      setGroups(response.data)
+     } catch (error) {
+      const isAppError = error instanceof AppError;
+
+      const title = isAppError ? error.message : 'Não foi possível carregar os grupos.';
+
+      toast.show({
+
+        title,
+
+        placement: 'top', bgColor: 'red.500'
+
+      });
+
+    }
+
+  }
+ async function fetchOrder() {
+
+    try {
+
+      const response = await api.get('/Order/bygrup/${groupSelected}');
+      setOrder(response.data)
+      console.log(response.data)
+    } catch (error) {
+
+      const isAppError = error instanceof AppError;
+      const title = isAppError ? error.message : 'Não foi possível carregar os pedidos.';
+      toast.show({
+
+        title,
+        placement: 'top', bgColor: 'red.500'
+
+      });
+
+    }
+
+  }
+
+useEffect(() => {
+  async function fetchData() {
+      try {
+         
+        fetchGroups()
+       }catch (error) {
+          console.error('Erro ao recuperar token:', error);
+       }
+    }
+      fetchData()
+  },[]);
+ 
+  useFocusEffect(useCallback(() => {
+    fetchOrder()
+  }, [groupSelected]));
+
 
   return (
     <VStack flex={1}>
@@ -50,11 +119,11 @@ export function Home() {
             {pedidos.length}
           </Text>
         </HStack>
-        <FlatList 
+        <FlatList
           data={pedidos}
           keyExtractor={item => item}
           renderItem={({ item }) => (
-            <OrderCard onPress={handleOpenOrderDetails}/>
+            <OrderCard onPress={handleOpenOrderDetails} />
           )}
           showsVerticalScrollIndicator={false}
           _contentContainerStyle={{
