@@ -65,7 +65,8 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 | Tela | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/assets/115122394/11dfa18d-8ea5-4a74-bfce-71565eca7e15 |
 
 <br>
-| Caso de teste 03     |  CT 03 - Exibir e editar informações                                                             | 
+
+| Caso de teste 03     |  CT 03 - Exibir e editar informações                                                               | 
 | ------- | ------------------------------------------------------------------------------------------------------------ | 
 | Objetivo do teste | Verificar se o aplictivo exibi as informações corretas do perfil logado e se permite que estas informações sejam atualizadas pelo usuáurio.| 
 | Escopo | Testar a funcionalidade de exibir e editar as informações que consta no perfil do usuário logado. |
