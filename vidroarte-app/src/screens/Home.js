@@ -50,10 +50,10 @@ export function Home() {
  async function fetchOrder() {
 
     try {
-
-      const response = await api.get('/Order/bygrup/${groupSelected}');
-      setOrder(response.data)
+      //console.log(groupSelected)
+      const response = await api.get('/exercises');
       console.log(response.data)
+      setOrder(response.data)
     } catch (error) {
 
       const isAppError = error instanceof AppError;
@@ -66,13 +66,14 @@ export function Home() {
       });
 
     }
-
+console.log(pedidos)
   }
 
 useEffect(() => {
   async function fetchData() {
       try {
          
+        //fetchOrder() dando conflito com o fetchGroups()
         fetchGroups()
        }catch (error) {
           console.error('Erro ao recuperar token:', error);
