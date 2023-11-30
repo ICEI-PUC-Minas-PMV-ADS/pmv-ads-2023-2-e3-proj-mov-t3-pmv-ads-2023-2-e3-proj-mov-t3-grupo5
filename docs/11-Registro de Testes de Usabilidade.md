@@ -32,4 +32,3 @@ Todos os usuários demonstraram facilidade em realizar a edição/atualização 
 
 - Teste de detalhar pedido do usuário:
 
-- Teste para acessar o suporte de usuário:
