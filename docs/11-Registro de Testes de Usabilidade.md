@@ -7,8 +7,8 @@ Os testes de usabilidade foram realizados com o objetivo de avaliar a facilidade
 - cadastro de novo usuário
 - longin de usuário
 - editar as informações de perfil do usuário
+- exibir lista de pedidos do usuário
 - detalhar pedido do usuário
-- acessar o suporte de usuário
 
 **Metodologia:**
 
