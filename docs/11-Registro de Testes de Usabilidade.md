@@ -30,5 +30,10 @@ Os usuários conseguiram realizar o login no sistema sem dificuldade. Alguns com
 
 Todos os usuários demonstraram facilidade em realizar a edição/atualização das informações de perfil e acharam muito interessante existir a opção de "alterar senha", mas questionaram a inexistência da opção de "esqueci minha senha", principalmente por não haver um confirmação de senha no momento do cadastro de novo usuário.
 
-- Teste de detalhar pedido do usuário:
+- Teste de exibir lista de pedidos do usuário:
 
+Todos os usuários disseram que a tela que exibi a lista de pedidos do usuário ficou clara e objetiva, com um resumo das informações mais importantes do pedido que facilita ao usuário já saber de qual pedido se trata, e acharam ainda mais interessante que consta a opção de detalhar pedido. 
+
+- Teste de detalhar pedidos do usuário:
+
+Os usuários informaram que a tela detalhada de cada pedido é clara e apresenta todas as informações necessárias de uma forma bem organizada, não sendo sugerida nenhuma alteração para esta página.
