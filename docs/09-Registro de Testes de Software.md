@@ -88,3 +88,35 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 | Ações esperadas | 1- Acessar a tela de login. 2- Digitar o e-mail e senha corretos. 3- Clicar no botão "Acessar". 4- Verificar se o usuário é redirecionado para a página inicial do aplicativo, que permite acessar o seu perfil com suas informações, para que estas possam ser editadas. |
 | Resultado | O usuário é autenticado e acessa a página do seu perfil no aplicativo, onde consegue editar/atualizar suas informações, como nome, foto de perfil e alteração de senha. |
 | Vídeo | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t8-VidroArte/assets/115122394/76b9e37a-68d0-415a-8f8b-74bbb7787a3e|
+
+<br>
+
+| Caso de teste 04     |  CT 04 - Exibir lista de pedidos                                                              | 
+| ------- | ------------------------------------------------------------------------------------------------------------ | 
+| Objetivo do teste | Verificar se o aplictivo exibi a lista de pedidos do usuário logado.| 
+| Escopo | Testar a funcionalidade de exibir a lista de pedidos do usuário logado. |
+
+<br>
+
+| Teste 01     |  Exibir lista de pedidos do usuário logado                                                             | 
+| ------- | ------------------------------------------------------------------------------------------------------------ | 
+| Descrição | Tentativa de login com as credenciais corretas de um usuário cadastrado para exibição das informações e pedidos corretos do mesmo. | 
+| Ações esperadas | 1- Acessar a tela de login. 2- Digitar o e-mail e senha corretos. 3- Clicar no botão "Acessar". 4- Verificar se o usuário é redirecionado para a página inicial do aplicativo, que permite acessar o seu perfil e a lista de pedidos do usuário logado. |
+| Resultado | O usuário é autenticado e consegue acessar a página inicial do aplicativo com a sua lista de pedidos. |
+| Vídeo | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/assets/115122394/91f99949-35e5-4f92-a0df-6eba7fb8c1ec |
+
+<br>
+
+| Caso de teste 05     |  CT 05 - Exibir detalhes dos pedidos                                                              | 
+| ------- | ------------------------------------------------------------------------------------------------------------ | 
+| Objetivo do teste | Verificar se o aplictivo exibi detalhes do pedido selecionado pelo usuário logado.| 
+| Escopo | Testar a funcionalidade de exibir detalhes do pedido selecionado pelo usuário logado. |
+
+<br>
+
+| Teste 01     |  Exibir detalhes do pedido selecionado                                                              | 
+| ------- | ------------------------------------------------------------------------------------------------------------ | 
+| Descrição | Tentativa de login com as credenciais corretas de um usuário cadastrado para exibição das informações e pedidos corretos do mesmo. | 
+| Ações esperadas | 1- Acessar a tela de login. 2- Digitar o e-mail e senha corretos. 3- Clicar no botão "Acessar". 4- Verificar se o usuário é redirecionado para a página inicial do aplicativo, que permite acessar o seu perfil e a lista de pedidos do usuário logado. 5- Selecionar um pedido para acessar a tela de detalhamento deste. |
+| Resultado | O usuário é autenticado, acessa a página inicial do aplicativo com a sua lista de pedidos e seleciona um pedido específico, para que este possa ser detalhado. |
+| Vídeo | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t3-pmv-ads-2023-2-e3-proj-mov-t3-grupo5/assets/115122394/91f99949-35e5-4f92-a0df-6eba7fb8c1ec |
