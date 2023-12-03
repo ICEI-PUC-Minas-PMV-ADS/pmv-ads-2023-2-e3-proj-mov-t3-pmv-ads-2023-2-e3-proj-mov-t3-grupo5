@@ -58,17 +58,19 @@ Os nossos participantes foram possíveis usuários do nosso aplicativo.
 
 <br>
 
-| Caso de teste 04     |  CT 04 - Detalhar cada pedido do usuário                                                          | 
+| Caso de teste 04     |  CT 04 - Exibir lista de pedidos                                                                    | 
+| ------- | ------------------------------------------------------------------------------------------------------------ | 
+| Objetivo do teste | Verificar a usabilidade da tela com a lista de pedidos de usuário, avaliando a facilidade de uso e a experiência do usuário           | 
+| Ações esperadas | 1- Realizar login do usuário. 2- Apresentar a tela com a lista de pedidos do usuário.      |
+| Critérios de êxito | Acessar a tela com a lista de pedidos do usuário.     
+|
+<br>
+
+| Caso de teste 05     |  CT 05 - Detalhar cada pedido do usuário                                                          | 
 | ------- | ------------------------------------------------------------------------------------------------------------ | 
 | Objetivo do teste | Verificar a usabilidade da tela de detalhar pedido, avaliando a facilidade de uso e a experiência do usuário            | 
 | Ações esperadas |  1- Realizar login do usuário. 2- Clicar sobre o pedido que deseja detalhar. 3- Acessar o detalhamento do pedido.    |
-| Critérios de êxito | Acessar a tela com o detalhamento do pedido.                                                         |
-<br>
-
-| Caso de teste 05     |  CT 05 - Testar o suporte de usuário                                                                    | 
-| ------- | ------------------------------------------------------------------------------------------------------------ | 
-| Objetivo do teste | Verificar a usabilidade do suporte de usuário, avaliando a facilidade de uso e a experiência do usuário           | 
-| Ações esperadas | 1- Acessar a área de suporte de usuário. 2- Clicar no botão para entrar em contato com o suporte de usuário.      |
-| Critérios de êxito | Abertura de um canal para que o usuário possa entrar em contato com o suporte.                       |
+| Critérios de êxito | Acessar a tela com o detalhamento do pedido.      
+|
 <br>
 
